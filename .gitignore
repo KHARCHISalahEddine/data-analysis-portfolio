@@ -1,0 +1,20 @@
+# ===================| virtual environment folder |===============================
+da-env/
+
+
+# ===================| datasets folder |===============================
+datasets/
+
+# ===================| 1st project: ecommerce-revenue-intelligence |===============================
+projects/ecommerce-revenue-intelligence/sql
+
+projects/ecommerce-revenue-intelligence/data/*
+!projects/ecommerce-revenue-intelligence/data/requirements.txt
+
+
+
+# ===================| 2nd project: threatscope-analytics |===============================
+projects/threatscope-analytics/data/*
+!projects/threatscope-analytics/data/requirements.txt
+
+projects/threatscope-analytics/sql
