@@ -1,0 +1,5 @@
+Download this dataset from Kaggle: 
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store/data?select=2019-Oct.csv
+
+
+Put the downloaded file in the `data` folder. Then, extract the file.

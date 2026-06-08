@@ -18,3 +18,7 @@ projects/threatscope-analytics/data/*
 !projects/threatscope-analytics/data/requirements.txt
 
 projects/threatscope-analytics/sql
+
+
+# ===================| 3rd project: productpulse-analytics |===============================
+projects/productpulse-analytics/data/*
