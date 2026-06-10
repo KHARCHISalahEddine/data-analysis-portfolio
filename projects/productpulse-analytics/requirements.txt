@@ -3,3 +3,7 @@ https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-cat
 
 
 Put the downloaded file in the `data` folder. Then, extract the file.
+
+Obs:
+    The less RAM memory available, the higher the likelihood of an inability to run the file. 
+Recommended RAM is 32G
