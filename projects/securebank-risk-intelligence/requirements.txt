@@ -1,0 +1,4 @@
+Download this dataset(make sure all the columns are checked):
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+extract it in: ./data file so you will get data/creditcard.csv

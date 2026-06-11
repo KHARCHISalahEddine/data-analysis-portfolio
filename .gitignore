@@ -22,3 +22,6 @@ projects/threatscope-analytics/sql
 
 # ===================| 3rd project: productpulse-analytics |===============================
 projects/productpulse-analytics/data/*
+
+# ===================| 4th project: securebank-risk-intelligence |=========================
+projects/securebank-risk-intelligence/data/*
